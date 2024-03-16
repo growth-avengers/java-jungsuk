@@ -376,3 +376,6 @@ String str4 = new String("abc");
 
 # ch10-날짜와 시간 & 형식화
 > Q. 사람이 알아보기 어려운 epoch time 은 실제로 언제 어떤 상황에서 쓰는 게 좋을까요?
+
+# ch11-컬렉션 프레임워크
+> Q. equals와 hashCode는 왜 같이 재정의하는 걸까요?
