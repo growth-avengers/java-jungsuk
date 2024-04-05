@@ -379,3 +379,6 @@ String str4 = new String("abc");
 
 # ch11-컬렉션 프레임워크
 > Q. equals와 hashCode는 왜 같이 재정의하는 걸까요?
+
+# ch12-generics, enumeration, annotation
+> Q. Enum 클래스의 장점은 무엇인가요? 그리고 그 장점의 이유까지 설명해주세요. 
