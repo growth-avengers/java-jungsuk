@@ -381,4 +381,7 @@ String str4 = new String("abc");
 > Q. equals와 hashCode는 왜 같이 재정의하는 걸까요?
 
 # ch12-generics, enumeration, annotation
-> Q. Enum 클래스의 장점은 무엇인가요? 그리고 그 장점의 이유까지 설명해주세요. 
+> Q. Enum 클래스의 장점은 무엇인가요? 그리고 그 장점의 이유까지 설명해주세요.
+
+# ch13-thread
+> Q. volatile 키워드는 쓰레드들에 대한 변수 변경의 가시성을 보장한다고 하는데 구체적으로 어떤 의미인가요? 예시를 들어서 설명해주세요. 
